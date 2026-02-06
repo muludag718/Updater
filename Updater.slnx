@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Updater.Core/Updater.Core.csproj" />
+  <Project Path="Updater.EncryptTool/Updater.EncryptTool.csproj" />
+  <Project Path="Updater.SampleApp/Updater.SampleApp.csproj" />
+  <Project Path="Updater.UI/Updater.UI.csproj" />
+</Solution>
