@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Updater.Core\Updater.Core.csproj" />
+    <ProjectReference Include="..\Updater.UI\Updater.UI.csproj" />
   </ItemGroup>
 
 </Project>

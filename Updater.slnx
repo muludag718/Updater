@@ -2,5 +2,5 @@
   <Project Path="Updater.Core/Updater.Core.csproj" />
   <Project Path="Updater.EncryptTool/Updater.EncryptTool.csproj" />
   <Project Path="Updater.SampleApp/Updater.SampleApp.csproj" />
-  <Project Path="Updater.UI/Updater.UI.csproj" />
+  <Project Path="Updater.UI/Updater.UI.csproj" Id="dfae438d-b319-4a7d-94ba-d52ec7ceea2f" />
 </Solution>
